@@ -1,0 +1,30 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AlignTab",
+		"cdnjs",
+		"DocBlockr",
+		"Dracula Color Scheme",
+		"EsFormatter",
+		"Floobits",
+		"Gist",
+		"Git",
+		"GitGutter",
+		"Github Tools",
+		"Grunt",
+		"JsFormat",
+		"Markdown Preview",
+		"Package Control",
+		"Polymer & Web Component Snippets",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Terminal",
+		"Theme - Soda",
+		"TypeScript"
+	]
+}
