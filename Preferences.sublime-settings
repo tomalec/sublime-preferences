@@ -1,9 +1,31 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Dracula (SL).tmTheme",
-	"font_size": 13,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+	"draw_minimap_border": true,
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 12,
 	"ignored_packages":
 	[
-		"Vintage"
+		"AlignTab",
+		"GitGutter",
+		"JavaScript",
+		"JavaScript & NodeJS Snippets",
+		"Polymer & Web Component Snippets",
+		"SideBarEnhancements",
+		"Vintage",
+		"Vlt"
 	],
-	"spell_check": true
+	"phoenix_color_green": true,
+	"phoenix_color_expanded_folder": false,
+	"phoenix_highlight_current_tab": true,
+	"phoenix_dirty_bottom_bar": true,
+	"phoenix_dirty_bottom_bar_red": true,
+	"phoenix_color_expanded_folder": true,
+	"phoenix_tabs_auto_width": true,
+	"phoenix_solid_current_tab": true,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"spell_check": true,
+	"theme": "Phoenix Dark.sublime-theme"
 }
